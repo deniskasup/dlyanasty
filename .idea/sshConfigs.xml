@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="deniskvf.beget.tech" id="0f782256-df85-4458-8a0d-472a7d64f7ff" port="22" nameFormat="DESCRIPTIVE" username="deniskvf_1" />
+    </configs>
+  </component>
+</project>

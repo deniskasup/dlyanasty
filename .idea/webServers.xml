@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e8b39934-9cc1-482e-9411-620514d6748f" name="http://deniskvf.beget.tech/">
+        <fileTransfer rootFolder="/home/d/deniskvf" accessType="SFTP" host="deniskvf.beget.tech" port="22" sshConfigId="0f782256-df85-4458-8a0d-472a7d64f7ff" sshConfig="deniskvf_1@deniskvf.beget.tech:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
